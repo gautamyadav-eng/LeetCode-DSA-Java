@@ -24,3 +24,19 @@ implemented in Java while preparing Data Structures and Algorithms.
 
 To improve problem-solving skills, DSA concepts,
 and time & space complexity analysis through consistent practice.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
