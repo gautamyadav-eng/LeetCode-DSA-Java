@@ -35,8 +35,21 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
