@@ -44,6 +44,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0136-single-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -66,4 +67,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
