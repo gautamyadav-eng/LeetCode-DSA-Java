@@ -45,6 +45,7 @@ and time & space complexity analysis through consistent practice.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0053-maximum-subarray) |
@@ -66,6 +67,7 @@ and time & space complexity analysis through consistent practice.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
@@ -108,4 +110,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
