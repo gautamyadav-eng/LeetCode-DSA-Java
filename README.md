@@ -62,6 +62,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -86,6 +87,7 @@ and time & space complexity analysis through consistent practice.
 | [0075-sort-colors](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,4 +130,5 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
