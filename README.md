@@ -77,6 +77,7 @@ and time & space complexity analysis through consistent practice.
 | [0018-4sum](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +124,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
