@@ -18,16 +18,8 @@ class Solution {
             fast = fast.next.next;
         }
 
-        ListNode mid = slow;
-
-        ListNode temp = slow;
-        while(temp != null){
-            System.out.print(temp.val + "->");
-            temp = temp.next;
-        }
-        System.out.print("null");
-        
-        return slow;
+        head =slow;
+        return head;
     }
    
 }
