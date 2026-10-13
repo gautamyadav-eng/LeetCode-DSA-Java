@@ -31,6 +31,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ and time & space complexity analysis through consistent practice.
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
