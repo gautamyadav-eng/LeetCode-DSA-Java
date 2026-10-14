@@ -34,6 +34,7 @@ and time & space complexity analysis through consistent practice.
 | [0021-merge-two-sorted-lists](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -48,6 +49,7 @@ and time & space complexity analysis through consistent practice.
 | [0021-merge-two-sorted-lists](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +91,7 @@ and time & space complexity analysis through consistent practice.
 | [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -169,4 +172,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
