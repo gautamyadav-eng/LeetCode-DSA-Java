@@ -145,6 +145,7 @@ and time & space complexity analysis through consistent practice.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
@@ -175,6 +176,7 @@ and time & space complexity analysis through consistent practice.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 ## Design
@@ -185,4 +187,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
