@@ -64,6 +64,7 @@ and time & space complexity analysis through consistent practice.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -73,6 +74,7 @@ and time & space complexity analysis through consistent practice.
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@ and time & space complexity analysis through consistent practice.
 | [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -191,4 +194,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
