@@ -74,6 +74,7 @@ and time & space complexity analysis through consistent practice.
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
@@ -124,6 +125,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -151,6 +153,7 @@ and time & space complexity analysis through consistent practice.
 | [0125-valid-palindrome](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -193,6 +196,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
