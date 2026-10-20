@@ -66,6 +66,7 @@ and time & space complexity analysis through consistent practice.
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -197,6 +198,7 @@ and time & space complexity analysis through consistent practice.
 | [0225-implement-stack-using-queues](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -205,4 +207,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
