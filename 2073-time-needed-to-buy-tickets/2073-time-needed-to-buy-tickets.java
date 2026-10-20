@@ -16,7 +16,7 @@ class Solution {
             q.add(person);
         }
 
-        if(person == k && tickets[person] == 0){
+        if(tickets[k] == 0){
             return time;
         }
       }
