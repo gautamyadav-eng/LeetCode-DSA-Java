@@ -185,6 +185,7 @@ and time & space complexity analysis through consistent practice.
 | [0020-valid-parentheses](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
@@ -219,6 +220,7 @@ and time & space complexity analysis through consistent practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -226,6 +228,7 @@ and time & space complexity analysis through consistent practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -233,6 +236,7 @@ and time & space complexity analysis through consistent practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
