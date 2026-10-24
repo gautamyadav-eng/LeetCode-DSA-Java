@@ -219,6 +219,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -228,6 +229,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -237,6 +239,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
