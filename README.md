@@ -61,6 +61,7 @@ and time & space complexity analysis through consistent practice.
 | [0074-search-a-2d-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 ## Counting
@@ -220,6 +222,7 @@ and time & space complexity analysis through consistent practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -244,6 +247,7 @@ and time & space complexity analysis through consistent practice.
 | [0094-binary-tree-inorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
@@ -259,6 +263,7 @@ and time & space complexity analysis through consistent practice.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
