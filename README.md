@@ -228,6 +228,7 @@ and time & space complexity analysis through consistent practice.
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
@@ -253,6 +254,7 @@ and time & space complexity analysis through consistent practice.
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -264,6 +266,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## String Matching
 |  |
