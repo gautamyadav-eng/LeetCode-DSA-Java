@@ -78,6 +78,7 @@ and time & space complexity analysis through consistent practice.
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@ and time & space complexity analysis through consistent practice.
 | [0141-linked-list-cycle](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@ and time & space complexity analysis through consistent practice.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -244,6 +247,7 @@ and time & space complexity analysis through consistent practice.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
@@ -259,6 +263,7 @@ and time & space complexity analysis through consistent practice.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -268,12 +273,14 @@ and time & space complexity analysis through consistent practice.
 | [0100-same-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0101-symmetric-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
