@@ -15,26 +15,27 @@
  */
 class Solution {
     public int minDiffInBST(TreeNode root) {
-       List<Integer> ans = new ArrayList<>();
-       
-       miniDistance(root, ans);
+      ArrayList<Integer> set = new ArrayList<>();
 
-       int minValue = Integer.MAX_VALUE;
+      inorder(root, set);
 
-       for(int i =1; i<ans.size(); i++){
-       int diff = ans.get(i) - ans.get(i - 1);
-        minValue = Math.min(minValue, diff);
+      int min = Integer.MAX_VALUE;
+       for(int i=1; i< set.size(); i++){
+        int diff = set.get(i) - set.get(i-1);
+
+        min = Math.min(min , diff);
        }
-
-       return minValue;
+       return min;
     }
-    public static void miniDistance(TreeNode root, List<Integer> ans){
+
+    public void inorder(TreeNode root, ArrayList<Integer> set){
         if(root == null){
             return ;
         }
-        miniDistance(root.left, ans);
-        ans.add(root.val);
-        miniDistance(root.right, ans);
+        inorder(root.left, set);
+        set.add(root.val);
+        inorder(root.right, set);
 
     }
+
 }
