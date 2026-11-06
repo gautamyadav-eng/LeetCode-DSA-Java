@@ -228,6 +228,7 @@ and time & space complexity analysis through consistent practice.
 | [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -244,6 +245,7 @@ and time & space complexity analysis through consistent practice.
 | [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -260,6 +262,7 @@ and time & space complexity analysis through consistent practice.
 | [0110-balanced-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
@@ -279,6 +282,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
