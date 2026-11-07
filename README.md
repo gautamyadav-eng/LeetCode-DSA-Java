@@ -194,6 +194,7 @@ and time & space complexity analysis through consistent practice.
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
+| [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -235,6 +236,7 @@ and time & space complexity analysis through consistent practice.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -251,6 +253,7 @@ and time & space complexity analysis through consistent practice.
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -269,6 +272,7 @@ and time & space complexity analysis through consistent practice.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -287,6 +291,7 @@ and time & space complexity analysis through consistent practice.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
