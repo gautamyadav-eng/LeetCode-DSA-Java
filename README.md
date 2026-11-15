@@ -162,6 +162,7 @@ and time & space complexity analysis through consistent practice.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -200,6 +201,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -235,6 +237,7 @@ and time & space complexity analysis through consistent practice.
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -271,6 +274,7 @@ and time & space complexity analysis through consistent practice.
 | [0572-subtree-of-another-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -290,6 +294,7 @@ and time & space complexity analysis through consistent practice.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0938-range-sum-of-bst) |
@@ -305,4 +310,8 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0543-diameter-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
