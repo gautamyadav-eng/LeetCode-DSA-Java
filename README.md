@@ -67,6 +67,7 @@ and time & space complexity analysis through consistent practice.
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -164,6 +165,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
