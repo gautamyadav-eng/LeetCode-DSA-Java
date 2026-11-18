@@ -66,6 +66,7 @@ and time & space complexity analysis through consistent practice.
 | [0136-single-number](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -110,6 +111,7 @@ and time & space complexity analysis through consistent practice.
 | [0088-merge-sorted-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
@@ -163,6 +165,7 @@ and time & space complexity analysis through consistent practice.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
