@@ -69,6 +69,7 @@ and time & space complexity analysis through consistent practice.
 | [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -87,6 +88,7 @@ and time & space complexity analysis through consistent practice.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -113,6 +115,7 @@ and time & space complexity analysis through consistent practice.
 | [0242-valid-anagram](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,6 +157,7 @@ and time & space complexity analysis through consistent practice.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -169,6 +173,7 @@ and time & space complexity analysis through consistent practice.
 | [0703-kth-largest-element-in-a-stream](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
