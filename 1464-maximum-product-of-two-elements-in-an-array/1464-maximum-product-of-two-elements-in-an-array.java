@@ -3,12 +3,11 @@ class Solution {
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
         for(int i=0; i< nums.length; i++){
-            for(int j =i+1; j< nums.length; j++){
-                int first = nums[i]-1;
-                int second = nums[j] -1;
-                pq.add(first * second);
-            }
+            pq.add(nums[i]);
+            
         }
-        return pq.peek();
+        int first = pq.poll();
+        int second = pq.poll();
+        return (first -1) * (second-1);
     }
 }
