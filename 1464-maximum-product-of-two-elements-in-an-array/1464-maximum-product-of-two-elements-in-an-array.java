@@ -2,8 +2,8 @@ class Solution {
     public int maxProduct(int[] nums) {
         PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
 
-        for(int i=0; i< nums.length; i++){
-            pq.add(nums[i]);
+        for(int arr : nums){
+            pq.add(arr);
             
         }
         int first = pq.poll();
