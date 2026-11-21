@@ -70,6 +70,7 @@ and time & space complexity analysis through consistent practice.
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -116,6 +117,7 @@ and time & space complexity analysis through consistent practice.
 | [0506-relative-ranks](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +176,7 @@ and time & space complexity analysis through consistent practice.
 | [0912-sort-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gautamyadav-eng/LeetCode-DSA-Java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
